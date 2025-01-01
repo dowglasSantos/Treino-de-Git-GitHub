@@ -1,3 +1,4 @@
 # Treino-de-Git-GitHub
-##Projeto criado para treinar comandos de git.
-##Alteração feita via GitHUb (Simulando outra pessoa).
+## Projeto criado para treinar comandos de git.
+## Alteração feita via GitHUb (Simulando outra pessoa).
+## Commit Dois (Via Terminal)
