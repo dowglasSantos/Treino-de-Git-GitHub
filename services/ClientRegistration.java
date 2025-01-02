@@ -1,4 +1,4 @@
-package src;
+package services;
 
 public class ClientRegistration {
     public static void main(String[] args) {
